@@ -55,7 +55,9 @@ body {
 
 /* ------ Invite ------ */
 
-
+.space_p{
+	margin-bottom: 10%;
+}
 .banner {
 	height: 70px;
 	background-color: #3c4446;
@@ -642,4 +644,27 @@ footer {
 	width:700px;
 	margin: 0 auto 200px;
 	overflow:hidden;
+}
+.centered{
+	/*border: 10px solid:; black ;*/
+	/*padding: 30%;*/
+	padding-left: 5% ;
+	/*margin: 3px;*/
+	/*color: black;*/
+    /*border: 0px solid pink ;*/
+    /*padding: 10px;*/
+    /*text-align: center;*/
+    /*box-shadow: 10px 10px 5px gray;*/
+	/*text-align: center;*/
+	/*margin: auto;*/
+
+}
+/*.body{
+    background-color: #ecf0f1
+}*/
+
+.box {
+	/*position: fixed;*/
+	padding-left: 20% ;
+	/*background-color: pink;*/
 }
